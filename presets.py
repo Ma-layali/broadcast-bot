@@ -1,6 +1,7 @@
 class Presets(object):
     WELCOME_MESSAGE = """
-©️          @MzoneChat
+Thanks for using 
+©️     <b>@MzoneChat</b>
     """
     USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
     WAIT_MSG = "<b>Please Wait...</b>"
